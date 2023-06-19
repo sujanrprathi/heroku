@@ -41,7 +41,6 @@ public class DriverManager {
             for (int j = 0; j < checkLink2.length; j++) {
                 if (Objects.equals(s, checkLink2[j])) {
                     checkLink3[j] = s;
-                    System.out.println(checkLink3[j]);
                 }
             }
         }
